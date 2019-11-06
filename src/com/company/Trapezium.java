@@ -13,6 +13,7 @@ public class Trapezium implements IInfo, IFigure{
     //constructors
     public Trapezium() {    }
 
+
     public Trapezium(double lowerBase, double upperBase, double leftSide,
                      double rightSide) {
         this.lowerBase = lowerBase;
